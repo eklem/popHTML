@@ -10,7 +10,7 @@ GGet input and populate HTML. Pure JS. Only demo purposes. The small code snippe
 <!-- HEAD-tag -->
 <script src="https://cdn.jsdelivr.net/npm/pophtml@0.0.1/index.min.js"></script>
 
-<!-- BODYtag -->
+<!-- BODY-tag -->
 <button id="button">Click me</button>
 <div id="populateElement"></div>
 ```
