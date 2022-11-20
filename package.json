@@ -1,0 +1,23 @@
+{
+  "name": "pophtml",
+  "version": "0.0.1",
+  "description": "Get input and populate HTML. Pure JS. Only demo purposes. The code I re-write every time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/popHTML.git"
+  },
+  "keywords": [
+    "demo",
+    "populate"
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/popHTML/issues"
+  },
+  "homepage": "https://github.com/eklem/popHTML#readme"
+}
