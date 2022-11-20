@@ -1,6 +1,6 @@
 {
   "name": "pophtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get input and populate HTML. Pure JS. Only demo purposes. The code I re-write every time.",
   "main": "index.js",
   "scripts": {
