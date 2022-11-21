@@ -10,7 +10,7 @@ Get input and populate HTML. Pure JS. Only demo purposes. The small code snippet
 
 ```HTML
 <!-- HEAD-tag -->
-<script src="https://cdn.jsdelivr.net/npm/pophtml@0.0.1/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pophtml@0.0.2/index.min.js"></script>
 
 <!-- BODY-tag -->
 <button id="button">Click me</button>
