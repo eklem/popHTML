@@ -1,5 +1,7 @@
 # popHTML
-Get input and populate HTML. Pure JS. Only demo purposes. The small code snippets I re-write every time to create quick browser demos.
+Get input and populate HTML. Pure JS. Only demo purposes. Instead of the small code snippets I re-write every time to create quick browser demos.
+
+May choose to use something like Alpine.js at a later stage or for some demos.
 
 [![NPM version][npm-version-image]][npm-url]
 [![NPM downloads][npm-downloads-image]][npm-url]
